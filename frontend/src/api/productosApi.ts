@@ -1,5 +1,3 @@
-// src/api/productosApi.ts
-
 import type { Producto, ProductoCreate } from '../types';
 
 const API_URL = 'http://localhost:8000/productos';

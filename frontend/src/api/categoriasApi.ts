@@ -1,5 +1,3 @@
-// src/api/categoriasApi.ts
-
 import type { Categoria, CategoriaCreate } from '../types';
 
 const API_URL = 'http://localhost:8000/categorias';

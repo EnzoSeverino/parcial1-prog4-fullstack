@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware # <-- IMPORTANTE
+from fastapi.middleware.cors import CORSMiddleware 
 from contextlib import asynccontextmanager
 from database import create_db_and_tables
 from routers import productos, categorias, ingredientes

@@ -1,7 +1,5 @@
-// src/components/CategoriaList.tsx
 import type { Categoria } from '../types';
 
-// Rúbrica: Props debidamente tipadas con interfaces
 interface Props {
   categorias: Categoria[];
   onEdit: (categoria: Categoria) => void;

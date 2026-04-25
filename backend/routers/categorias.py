@@ -3,7 +3,7 @@ from sqlmodel import Session
 from typing import Annotated, List
 
 from uow.unit_of_work import get_uow
-from schemas.base import CategoriaCreate, CategoriaRead # <-- Importante
+from schemas.base import CategoriaCreate, CategoriaRead 
 from services.categoria_service import crear_categoria, listar_categorias, actualizar_categoria, eliminar_categoria
 
 router = APIRouter(prefix="/categorias", tags=["categorias"])

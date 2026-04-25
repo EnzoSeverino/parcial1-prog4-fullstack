@@ -3,7 +3,7 @@ from sqlmodel import Session
 from typing import Annotated, List
 
 from uow.unit_of_work import get_uow
-from schemas.base import IngredienteCreate, IngredienteRead # <-- Importante
+from schemas.base import IngredienteCreate, IngredienteRead 
 from services.ingrediente_service import crear_ingrediente, listar_ingredientes, actualizar_ingrediente, eliminar_ingrediente
 
 router = APIRouter(prefix="/ingredientes", tags=["ingredientes"])

@@ -1,5 +1,3 @@
-// src/components/ProductoList.tsx
-
 import type { Producto } from '../types';
 
 interface Props {

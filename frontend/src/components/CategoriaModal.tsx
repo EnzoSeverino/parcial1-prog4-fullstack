@@ -1,5 +1,3 @@
-// src/components/CategoriaModal.tsx
-
 import { useState, useEffect } from 'react';
 import { useMutation, useQueryClient } from '@tanstack/react-query';
 import { createCategoria, updateCategoria } from '../api/categoriasApi';

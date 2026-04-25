@@ -1,4 +1,3 @@
-// src/components/ProductoModal.tsx
 import { useState, useEffect } from 'react';
 import { useMutation, useQueryClient } from '@tanstack/react-query';
 import { createProducto, updateProducto } from '../api/productosApi';
