@@ -22,6 +22,6 @@
 - [x] Feedback: Gestión visual de estados de "Cargando..." y "Error" en las peticiones.
 
 ## Video de Presentación
-- [ ] Duración: El video dura 15 minutos o menos.
-- [ ] Audio/Video: La voz es clara y la resolución de pantalla permite leer el código.
-- [ ] Demo: Se muestra el flujo completo desde la creación hasta la persistencia en la DB.
+- [x] Duración: El video dura 15 minutos o menos.
+- [x] Audio/Video: La voz es clara y la resolución de pantalla permite leer el código.
+- [x] Demo: Se muestra el flujo completo desde la creación hasta la persistencia en la DB.
