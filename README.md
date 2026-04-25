@@ -8,7 +8,7 @@ Aplicación Fullstack desarrollada para la gestión de un catálogo de productos
 * **Patrones:** Arquitectura en capas, Unit of Work.
 
 ## Video de Presentación
-🎥 **[Haz clic aquí para ver la demostración del proyecto en YouTube](LINK_A_TU_VIDEO_ACA)**
+🎥 **[Haz clic aquí para ver la demostración del proyecto en YouTube](https://www.youtube.com/watch?v=A2oiA0qb5C8)**
 
 ## Instalación y Ejecución
 ### Backend
