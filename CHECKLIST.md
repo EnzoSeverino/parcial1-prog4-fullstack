@@ -12,7 +12,7 @@
 - [x] Setup: Proyecto creado con Vite + TS y estructura de carpetas limpia.
 - [x] Componentes: Uso de componentes funcionales y Props debidamente tipadas con interfaces.
 - [x] Estilos: Interfaz construida íntegramente con clases de utilidad de Tailwind CSS.
-- [x] Navegación: Configuración de react-router-dom con rutas dinámicas.
+- [ ] Navegación: Configuración de react-router-dom con rutas dinámicas.
 - [x] Estado Local: Uso de useState para el manejo de formularios o UI interactiva.
 
 ## Integración y Server State
